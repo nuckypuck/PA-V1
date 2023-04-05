@@ -1,7 +1,7 @@
 # PA-V1
 CS Coursework basic zombie game.
 
-PA-V1 (Project Affliction) is a game I created in unity using C#. As of now the game only contains the basic aspects needed for it to be suitable for the specification but I do have some revisions planned in my own time after completion. 
+PA-V1 (Project Affliction) is a game I created in unity using C#. As of now the game only contains the basic aspects needed for it to be suitable for the specification but I do have some revisions planned in my own time after completion. (The game is a bit of a joke.)
 
 The Programming Journey is listed below in mostly chronological order. Revisions are marked with //.
 
